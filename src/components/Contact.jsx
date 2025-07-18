@@ -16,7 +16,7 @@ function Contact() {
           Feel free to reach out for collaborations or just to say hi!
         </p>
         <a
-          href="mailto:your.email@example.com"
+          href="mailto:rihikajain.it25@gmail.com"
           className="inline-block bg-white text-primary font-bold py-3 px-8 rounded-full shadow-lg hover:bg-primary hover:text-white border-2 border-white hover:border-primary transition text-xl"
         >
           Send Email
